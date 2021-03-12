@@ -1,0 +1,16 @@
+.heart {
+    width: 400px;
+    height: 400px;
+    background: blue;
+    position: relative;
+}
+
+.one {
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

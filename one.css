@@ -1,10 +1,11 @@
-.heart{
+.heart {
     background: red;
     width: 400px;
-    height:400PX;
+    height: 400PX;
     position: relative;
 }
-.three{
+
+.one {
     background: green;
     width: 100px;
     height: 100px;
@@ -12,6 +13,6 @@
     left: 0;
     right: 0;
     top: 0;
-    bottom:0;
+    bottom: 0;
     margin: auto;
 }
